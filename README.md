@@ -30,7 +30,6 @@
   
 </div>
 
-![Snake animation](https://github.com/<vitoriafmachado>/<vitoriafmachado>/blob/output/snake.svg)
 
 
 
