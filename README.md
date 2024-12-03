@@ -1,12 +1,38 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+vitória,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Vitória,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 
-  
-- desenvolvedora front-end 
-- Estudando engenharia de software
+#### 🎮 Sobre mim
+Olá, eu sou a Vitória, uma desenvolvedora front-end apaixonada por tecnologia, criatividade e responsividade. 🚀
+Adoro criar projetos que unem programação e imaginação,Aqui você encontrará projetos que refletem minha paixão por tecnologia e criatividade, trazendo temas inovadores e designs interativos. 
+Amo Programar e não me imagino trabalhando em outra área!
 
+  Alguns fatos sobre mim:
+  <br>
+🎓 Estudante de Engenharia de Software.
+<br>
+💻 Amante de HTML, CSS, JavaScript e projetos com designs únicos.
+<br>
+🎮 Geek de coração, fã de Star Wars, Arcane, Attack on Titan e Death Note.
+<br>
+👩‍👩‍👧‍👧 casada, Mãe de duas pequenas aventureiras, Jullieta e Jasmim.
+<br>
+📍 Moro em Belo Horizonte, explorando o mundo da programação.
  <div>
-<img src=https://github-readme-stats.vercel.app/api?username=vitoriafmachado&theme=jolly&show_icons=true>
+
+
+
+<br/>
+
+<div style="display: flex;">
+   
+  
+  <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriafmachado&hide_progress=true&theme=aura" alt="ilustração do status do github">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vitoriafmachado&show_icons=true&theme=aura">
+</div>
+
+<br> <br>
 
   
 <div>
@@ -43,6 +69,9 @@
 
 
 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
 
 
 
