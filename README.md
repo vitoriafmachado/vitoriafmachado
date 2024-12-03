@@ -1,10 +1,7 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+vitória,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
-  ## olá ! Eu sou a vitória freitas👋
+
+  
 - desenvolvedora front-end 
 - Estudando engenharia de software
 
