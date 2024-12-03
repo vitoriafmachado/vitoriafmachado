@@ -33,7 +33,6 @@
 ![Snake animation](https://github.com/<vitoriafmachado>/<vitoriafmachado>/blob/output/snake.svg)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitoriafmachado&repo=vitoriafmachado&theme=react)](https://github.com/vitoriafmachado/vitoriafmachado)
 
 
 
