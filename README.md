@@ -12,11 +12,9 @@ Amo Programar e não me imagino trabalhando em outra área!
   <br>
 🎓 Estudante de Engenharia de Software.
 <br>
-💻 Amante de HTML, CSS, JavaScript e projetos com designs únicos.
+💻 Apaixonada por  HTML, CSS, JavaScript e projetos com designs únicos.
 <br>
-🎮 Geek de coração, fã de Star Wars, Arcane, Attack on Titan e Death Note.
-<br>
-👩‍👩‍👧‍👧 casada, Mãe de duas pequenas aventureiras, Jullieta e Jasmim.
+✨ nascida em 1999
 <br>
 📍 Moro em Belo Horizonte, explorando o mundo da programação.
  <div>
