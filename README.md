@@ -2,22 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Vitória,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
+<br>
 
-#### 🎮 Sobre mim
-Olá, eu sou a Vitória, uma desenvolvedora front-end apaixonada por tecnologia, criatividade e responsividade. 🚀
-Adoro criar projetos que unem programação e imaginação,Aqui você encontrará projetos que refletem minha paixão por tecnologia e criatividade, trazendo temas inovadores e designs interativos. 
-Amo Programar e não me imagino trabalhando em outra área!
+#### "Não é a tecnologia que vai mudar o mundo, mas a maneira como a usamos."
+– Steve Jobs
 
-  Alguns fatos sobre mim:
-  <br>
-🎓 Estudante de Engenharia de Software.
-<br>
-💻 Apaixonada por  HTML, CSS, JavaScript e projetos com designs únicos.
-<br>
-✨ nascida em 1999
-<br>
-📍 Moro em Belo Horizonte, explorando o mundo da programação.
- <div>
+<BR>
+
+<p>🎓 Estudante de Engenharia de Software.</p>
+<p>💻 Apaixonada por HTML, CSS, JavaScript e projetos com designs únicos.</p>
+<p>✨ Nascida em 1999.</p>
+<p>📍 Moro em Belo Horizonte, explorando o mundo da programação.</p>
+<p>👨‍👩‍👧‍👧 Apaixonada pela família e sempre em busca de criar experiências incríveis.</p>
+<p>🖥️ Adoro trabalhar com acessibilidade, interatividade, Git, GitHub e desenvolvimento web.</p>
 
 
 
@@ -50,7 +47,6 @@ Amo Programar e não me imagino trabalhando em outra área!
 ##
  
 <div> 
-  <a href="https://instagram.com/machadosvitoriaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "machadosvitoriaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitória-machado-017b82326/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
