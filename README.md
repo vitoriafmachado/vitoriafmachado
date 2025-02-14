@@ -9,14 +9,20 @@
 
 <BR>
 
-<p>🎓 Estudante de Engenharia de Software.</p>
-<p>💻 Apaixonada por HTML, CSS, JavaScript e projetos com designs únicos.</p>
-<p>✨ Nascida em 1999.</p>
-<p>📍 Moro em Belo Horizonte, explorando o mundo da programação.</p>
-<p>👨‍👩‍👧‍👧 Apaixonada pela família e sempre em busca de criar experiências incríveis.</p>
-<p>🖥️ Adoro trabalhar com acessibilidade, interatividade, Git, GitHub e desenvolvimento web.</p>
+```
+javascript
+const userInfo = {
+  education: "Estudante de Engenharia de Software",
+  passions: ["HTML", "CSS", "JavaScript", "Projetos com designs únicos"],
+  bornIn: 1999,
+  location: "Belo Horizonte",
+  family: "Apaixonada pela família",
+  interests: ["Acessibilidade", "Interatividade", "Git", "GitHub", "Desenvolvimento Web"]
+};
 
+console.log(userInfo);
 
+```
 
 <br/>
 
