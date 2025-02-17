@@ -7,6 +7,16 @@
 #### "Não é a tecnologia que vai mudar o mundo, mas a maneira como a usamos."
 – Steve Jobs
 
+📚 Minhas formações incluem:
+
+Desenvolvimento Front-End e Figma – Alura
+<br>
+Desenvolvimento PHP – Prodabel
+<br>
+JavaScript – Rocketseat - Alura
+<br>cursando superior em Engenharia de software c,php,python e desenvolvimemento web.
+
+
 <BR>
 
 ```
@@ -46,6 +56,9 @@ console.log(userInfo);
   <img align="center" alt="vi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">/
   <img align="center" alt="vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="vi-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="vi-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
   
 </div>
