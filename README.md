@@ -4,17 +4,23 @@
 
 <br>
 
-#### "Não é a tecnologia que vai mudar o mundo, mas a maneira como a usamos."
-– Steve Jobs
+```python
+# Automação e café movem meu código!
+def main():
+    return "Conexão Estabelecida. Bem-vindo(a)!"
+```
 
-📚 Minhas formações incluem:
+<BR>
 
-Desenvolvimento Front-End e Figma – Alura
-<br>
-Desenvolvimento PHP – Prodabel
-<br>
-JavaScript – Rocketseat - Alura
-<br>cursando superior em Engenharia de software c,php,python e desenvolvimemento web.
+
+##  **Formações Concluídas**
+
+- **Git Version Control** - Coursera
+- **Desenvolvimento Front-end e Back-end** - Alura
+- **Python em Processo** - Alura
+- **JavaScript** - Rocketseat
+- **PHP** - Prodabel
+
 
 
 <BR>
