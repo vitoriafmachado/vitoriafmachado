@@ -25,20 +25,20 @@ def main():
 
 <BR>
 
-```
-javascript
+
+```javascript
 const userInfo = {
   education: "Estudante de Engenharia de Software",
-  passions: ["HTML", "CSS", "JavaScript", "Projetos com designs únicos"],
+  passions: ["HTML", "CSS", "JavaScript", "Python","Desenvolvimento Web"],
   bornIn: 1999,
   location: "Belo Horizonte",
   family: "Apaixonada pela família",
-  interests: ["Acessibilidade", "Interatividade", "Git", "GitHub", "Desenvolvimento Web"]
+  interests: ["Acessibilidade", "Interatividade", "Git", "Automação"]
 };
 
 console.log(userInfo);
-
 ```
+
 
 <br/>
 
