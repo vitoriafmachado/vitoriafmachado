@@ -9,13 +9,14 @@
 def main():
     return "Conexão Estabelecida. Bem-vindo(a)!"
 ```
-
+A PYTHON DEVELOPMENT Enthusiast 🚀.
 <BR>
 
 
 ##  **Formações Concluídas**
 
 - **Git Version Control** - Coursera
+- **Python Programming Fundamentals** - Coursera
 - **Desenvolvimento Front-end e Back-end** - Alura
 - **Python em Processo** - Alura
 - **JavaScript** - Rocketseat
