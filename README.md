@@ -10,12 +10,12 @@ def main():
     return "Conexão Estabelecida. Bem-vindo(a)!"
 ```
 
-### 💻 Back-End Developer Enthusiast 🚀
+### 💻 Back-End Developer Enthusiast 
 Profissional apaixonada por desenvolvimento de software, focada em Back-End, APIs, automação e otimização de processos. Sempre buscando aprender mais e criar soluções eficientes.
 
----
 
-## 🎓 **Formações Concluídas**
+
+##  **Formações Concluídas**
 
 - **Git Version Control** - Coursera
 - **Python Programming Fundamentals** - Coursera
@@ -41,7 +41,7 @@ print(user_info)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div style="display: flex;">
   <img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriafmachado&hide_progress=true&theme=aura" alt="Linguagens mais usadas">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vitoriafmachado&show_icons=true&theme=aura" alt="Estatísticas do GitHub">
