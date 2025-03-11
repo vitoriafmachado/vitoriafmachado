@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
+**<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Vitória,+seja+Bem-vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
@@ -10,10 +10,8 @@ def main():
     return "Conexão Estabelecida. Bem-vindo(a)!"
 ```
 
-### 💻 Back-End Developer Enthusiast 
-Profissional apaixonada por desenvolvimento de software, focada em Back-End, APIs, automação e otimização de processos. Sempre buscando aprender mais e criar soluções eficientes.
-
-
+### 💻 Data Analyst Enthusiast 
+Profissional apaixonada por análise de dados, automação e otimização de processos. Sempre buscando aprender mais e criar soluções eficientes.
 
 ##  **Formações Concluídas**
 
@@ -23,15 +21,16 @@ Profissional apaixonada por desenvolvimento de software, focada em Back-End, API
 - **Python em Processo** - Alura
 - **JavaScript** - Rocketseat
 - **PHP** - Prodabel
+- **Análise de Dados** - Programaria (em andamento)
 
 ---
 
 ```python
 user_info = {
-    "role": "Desenvolvedora Back-End",
-    "education": "Estudante de Engenharia de Software",
-    "skills": ["Python", "Django", "Flask", "Node.js", "APIs", "Banco de Dados"],
-    "interests": ["Automação", "Back-End", "Cloud", "Banco de Dados", "DevOps"],
+    "role": "Analista de Dados",
+    "education": "Estudante de Engenharia de Software e Análise de Dados",
+    "skills": ["Python", "Git", "Pandas", "NumPy", "C", "SQL"],
+    "interests": ["Análise de Dados", "Automação", "Banco de Dados", "BI", "Machine Learning"],
     "location": "Belo Horizonte",
     "family": "Apaixonada pela família",
 }
@@ -49,14 +48,13 @@ print(user_info)
 
 ---
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="vi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="vi-Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="vi-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="vi-NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="vi-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="vi-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="vi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="vi-NumPy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="vi-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="vi-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ---
@@ -78,14 +76,6 @@ print(user_info)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
 
-
-
-
-
-
-
-
-
-
+**
 
   
