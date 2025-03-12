@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A604FF&size=35&center=true&vCenter=true&width=1000&lines=+Olá+sou+a+Vitória,+seja+Bem-vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 <br>
 
@@ -74,7 +71,6 @@ print(user_info)
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitoriafmachado/vitoriafmachado/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=footer"/>
 
 **
 
