@@ -18,7 +18,7 @@ Profissional apaixonada por análise de dados, automação e otimização de pro
 - **Python em Processo** - Alura
 - **JavaScript** - Rocketseat
 - **PHP** - Prodabel
-- **Análise de Dados** - Programaria (em andamento)
+- **Análise de dados e IA - programa koru Boticário 
 
 ---
 
