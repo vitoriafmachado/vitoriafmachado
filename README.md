@@ -37,7 +37,7 @@ Minha missão é transformar **ideias** em **projetos reais** usando o poder da 
 
 
 
-## 🛠 Tecnologias
+##  Tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,mysql,aws,git,github&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
