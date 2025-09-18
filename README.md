@@ -1,11 +1,11 @@
 <!-- Banner Moderno com Nome em Destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=header&text=Vit%C3%B3ria%20Freitas%20Machado&fontColor=fff&fontSize=40&animation=fadeIn&desc=Desenvolvimento%20Web%20%7C%20Cloud%20%7C%20IA%20%7C%20Automação&descAlignY=75&descSize=20" alt="Vitória Freitas Machado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=header&text=Vit%C3%B3ria%20Freitas%20Machado&fontColor=fff&fontSize=40&animation=fadeIn&desc=Desenvolvimento%20software%20%7C%20Cloud%20%7C%20IA%20%7C%20Automação&descAlignY=75&descSize=20" alt="Vitória Freitas Machado" />
 </p>
 
 <!-- Efeito de Digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=9B5DE5&center=true&vCenter=true&width=800&lines=💻+Desenvolvedora+Web+Full+Stack;☁️+Especialista+em+Cloud+%26+Automação;🤖+Criadora+de+Chatbots+com+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=9B5DE5&center=true&vCenter=true&width=800&lines=💻+Desenvolvedora++Full+Stack;☁️++Cloud+%26+Automação;🤖++&+IA" alt="Typing SVG" />
 </p>
 
 
