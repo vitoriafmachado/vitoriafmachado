@@ -18,7 +18,17 @@ Minha missão é **crescer na tecnologia** e usá-la para **inovações e mudan�
 
 
 
-##  Tecnologias de Entrega
+
+
+#  Reconhecimento e Crescimento
+
+-   **Cloud Computing:** Selecionada no **Santander Code Girls 2025**.
+-   **Inteligência Artificial:** Participação no programa **Koru Boticário** (Análise de Dados e IA).
+-   **Projetos Atuais:** []
+
+
+<br><br>
+# Tecnologias de Entrega
 
 Estas são as ferramentas que utilizo para construir e colocar projetos no ar:
 
@@ -26,16 +36,6 @@ Estas são as ferramentas que utilizo para construir e colocar projetos no ar:
   <img src="https://skillicons.dev/icons?i=react,nodejs,python,aws,mysql,git,github,html,css,javascript,vscode&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
 </p>
-
-
-
-##  Reconhecimento e Crescimento
-
--   **Cloud Computing:** Selecionada no **Santander Code Girls 2025**.
--   **Inteligência Artificial:** Participação no programa **Koru Boticário** (Análise de Dados e IA).
--   **Projetos Atuais:** []
-
-
 
 ## 📧 Vamos Conectar?
 
