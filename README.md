@@ -1,69 +1,51 @@
-<!-- Banner Moderno com Nome em Destaque -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=header&text=Vit%C3%B3ria%20Freitas%20Machado&fontColor=fff&fontSize=40&animation=fadeIn&desc=Desenvolvimento%20software%20%7C%20Cloud%20%7C%20IA%20%7C%20Automação&descAlignY=75&descSize=20" alt="Vitória Freitas Machado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B5DE5&height=120&section=header&text=Vit%C3%B3ria%20Freitas%20Machado&fontColor=fff&fontSize=40&animation=fadeIn&desc=Code%20|%20APIs%20|%20Automação&descAlignY=75&descSize=24" alt="Vitória Freitas Machado - Code | APIs | automação" />
 </p>
 
-<!-- Efeito de Digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=9B5DE5&center=true&vCenter=true&width=800&lines=💻+Desenvolvedora++Full+Stack;☁️++Cloud+%26+Automação;🤖++&+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=9B5DE5&center=true&vCenter=true&width=800&lines=+Construo+sistemas++inteligentes+e+automatizados" alt="Typing SVG" />
 </p>
 
 
-##  
-Sou estudante de **Engenharia de Software** e apaixonada por criar **soluções modernas, escaláveis e inteligentes**.  
-Minha missão é transformar **ideias** em **projetos reais** usando o poder da **tecnologia**.
 
-🔹 **Áreas de Atuação**
-- Desenvolvimento Web Full Stack  
-- ☁️ Cloud Computing (AWS)  
--  Automação de Processos  
--  Inteligência Artificial e Machine Learning  
--  Criação de Chatbots Inteligentes  
+Minha missão é **crescer na tecnologia** e usá-la para **inovações e mudanças significativas**. Por isso, estou **sempre em busca de melhorar e me atualizar**. Foco na **integração de ponta a ponta**, desde a performance do **Front-end** até a segurança da **API/Back-end** na **Cloud **.
 
-🏆 **Conquistas**
--  Selecionada no **Santander Code Girls 2025** – Cloud Computing  
--  Programa Koru Boticário – Análise de Dados e IA  
+| Área de Foco | Propósito | Minhas Ferramentas |
+| :--- | :--- | :--- |
+| **Full Stack Development** | Entregar a solução completa, desde a UX até a arquitetura de dados. | React, Node.js/Python, MySQL. |
+| **APIs e Integração** | Ser o ponto de conexão entre plataformas, garantindo comunicação eficiente. | Padrões RESTful, Autenticação, Microserviços. |
+| **Automação & Cloud** | Otimizar tempo e recursos, aplicando o conceito de "Código para o Fim". | Python Scripts, AWS Services, IA (Boticário). |
 
 
 
-## Formações & Cursos
-- **Santander Code Girls 2025** – Cloud Computing  
-- Git Version Control – Coursera  
-- Python Programming Fundamentals – Coursera  
-- Desenvolvimento Front-end e Back-end – Alura  
-- JavaScript – Rocketseat  
-- PHP – Prodabel  
-- **Análise de Dados e IA** – Programa Koru Boticário  
+##  Tecnologias de Entrega
 
+Estas são as ferramentas que utilizo para construir e colocar projetos no ar:
 
-
-##  Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,mysql,aws,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,aws,mysql,git,github,html,css,javascript,vscode&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
 </p>
 
 
 
+##  Reconhecimento e Crescimento
 
-## 🤖 Exemplo de Automação + IA
-```python
-import time
+-   **Cloud Computing:** Selecionada no **Santander Code Girls 2025**.
+-   **Inteligência Artificial:** Participação no programa **Koru Boticário** (Análise de Dados e IA).
+-   **Projetos Atuais:** []
 
-class AutomacaoIA:
-    def __init__(self, usuario):
-        self.usuario = usuario
 
-    def executar(self):
-        tarefas = [
-            " Conectando à nuvem AWS...",
-            " Treinando modelo de IA...",
-            " Otimizando banco de dados...",
-            " Processo concluído com sucesso!"
-        ]
-        for tarefa in tarefas:
-            print(f"{self.usuario}: {tarefa}")
-            time.sleep(1)
 
-bot = AutomacaoIA("Vitória")
-bot.executar()
+## 📧 Vamos Conectar?
+
+Se você está construindo algo incrível e precisa de expertise em **Full Stack, APIs ou Automação**, me chame!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-freitas-machado/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="machadosvitoriaa@gmail.com>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
