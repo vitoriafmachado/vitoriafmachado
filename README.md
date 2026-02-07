@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Portfólio-EM%20CONSTRUÇÃO-8A2BE2?style=for-the-badge&logo=behance&logoColor=white">
 </p>
 
----
+
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
----
+
 
  <h3>Ferramentas</h3>
 
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white">
 </p>
 
----
+
 
 <h3>Projetos</h3>
 
@@ -108,7 +108,7 @@
 
 <br>
 
----
+
 
 <h3>&nbsp; Formação</h3>
 
